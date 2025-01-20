@@ -1,0 +1,34 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+}
+
+div {
+    align-items: center;
+}
+
+div ul {
+    align-items: center;
+    text-align: center;
+    list-style-type: none;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+a{
+    background-color: antiquewhite;
+}
+
+img {
+    align-items: center;
+    height: auto;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
